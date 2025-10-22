@@ -1,3 +1,3 @@
 # dsa-notebook
 
-All my notes, algorithms and leetcode questions as learn to master DSA :)
+all my notes, algorithms and leetcode questions as i learn to master dsa :)
