@@ -1,3 +1,3 @@
 # cs-notebook
 
-all my notes, algorithms and leetcode questions as i learn to master dsa :)
+all my notes, algorithms and leetcode questions as i learn computer science :)
