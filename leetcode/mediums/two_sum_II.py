@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         # since the array is sorted, we can remove values from the end f the list from consideration if they are larger than the target

@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         # this question is worded so dumb, it is asking for the longest sequence consecutive integers located anywhere in the list. 
